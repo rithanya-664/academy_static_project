@@ -75,7 +75,7 @@ a:hover, li:hover{
     min-height:80vh;
     
     background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), 
-                url(/Assets/1st\ pic.jpg) no-repeat center center/cover;
+                url(Assets/1st\ pic.jpg) no-repeat center center/cover;
     
     display:flex;
     align-items:center; 
