@@ -55,12 +55,12 @@ a:hover, li:hover{
   padding: 12px;
 }
 
-.announcmnet{
+.announcement{
   display: flex;
   width:max-content;
 }
 
-.announcmnet span{
+.announcement span{
   color:white;
   padding:10px;
   font-size:15px;
@@ -75,7 +75,7 @@ a:hover, li:hover{
     min-height:80vh;
     
     background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)), 
-                url('1st\ pic.jpg') no-repeat center center/cover;
+                url(/Assets/1st\ pic.jpg) no-repeat center center/cover;
     
     display:flex;
     align-items:center; 
@@ -183,7 +183,8 @@ a:hover, li:hover{
     font-family:sans-serif;
     font-weight: bold;
     font-size: 16px;
-    padding: 12px 25px;    border-radius: 5px;
+    padding: 12px 25px;    
+    border-radius: 5px;
     color: white;
     min-width: 140px;          
     text-align: center;
@@ -194,6 +195,7 @@ a:hover, li:hover{
 
 /*-----------------------------------------------------------------------------*/
 
+/* DANCE & MUSIC PAGE */
 
 .acadamy{
     display: flex;
